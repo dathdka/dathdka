@@ -8,10 +8,11 @@ I'm a fresheer Back-end NodeJS developer
 <br />
 I love learning new techs and using new tools.
 <br />
-[Coding](https://imgur.com/VqFFP5Y)
-
+![Coding](https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif)
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 <br />
 More about me 🗿 https://dathdka.github.io/Profile/
+<br />
 <br />
 <p align= "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dathdka Top Languages"/>
