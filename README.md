@@ -5,6 +5,9 @@
 
 
 I'm a fresheer Back-end NodeJS developer
+<br />
+![coding](https://i.imgur.com/e1bsZAX.gif)
+<br />
 I love learning new techs and using new tools.
 
 <br />
