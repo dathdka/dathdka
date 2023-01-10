@@ -2,14 +2,18 @@
 ![](https://komarev.com/ghpvc/?username=dathdka&color=orange)
 <br/>
 <br/>
-
-
+<p align = "center">
+  <img src = "https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif" />
+ </p >
 I'm a fresheer Back-end NodeJS developer
 <br />
 I love learning new techs and using new tools.
 <br />
-![Coding](https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif)
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<br />
+<p align = "center">
+  <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ </p >
+<br />
 <br />
 More about me 🗿 https://dathdka.github.io/Profile/
 <br />
