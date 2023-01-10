@@ -5,12 +5,10 @@
 
 
 I'm a fresheer Back-end NodeJS developer
-<br />
 I love learning new techs and using new tools.
 
 <br />
-About me 🗿 https://dathdka.github.io/Profile/
-<br />
+More about me 🗿 https://dathdka.github.io/Profile/
 <br />
 <p align= "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dathdka Top Languages"/>
@@ -25,10 +23,11 @@ Some project I currently working on:
 
 
 
-<p align= "center">### Tech Stack </ p>
+### Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
