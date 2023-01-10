@@ -3,11 +3,14 @@
 About me 🗿 https://dathdka.github.io/Profile/
 
 ![](https://komarev.com/ghpvc/?username=dathdka&color=orange)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&hide=TeX&layout=compact)
 <br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&hide=TeX&layout=compact)
 <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dathdka&count_private=true&show_icons=true&include_all_commits=true)
 
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dathdka&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dathdka Github Stats">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
