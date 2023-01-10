@@ -2,6 +2,7 @@
 
 About me 🗿 https://dathdka.github.io/Profile/
 
+I'm a fresheer Back-end NodeJS developer
 ![](https://komarev.com/ghpvc/?username=dathdka&color=orange)
 <br/>
 <br/>
@@ -12,13 +13,14 @@ About me 🗿 https://dathdka.github.io/Profile/
 <br/>
 <p align= "center">
 <img src="https://github-readme-stats.vercel.app/api?username=dathdka&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dathdka Github Stats">
+<br />
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dathdka Top Languages"/>
 </p>
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
-<br />
-<br />
-<br />
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
