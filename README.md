@@ -1,27 +1,27 @@
 ### Hi there 👋
-
-About me 🗿 https://dathdka.github.io/Profile/
-
-I'm a fresheer Back-end NodeJS developer
 ![](https://komarev.com/ghpvc/?username=dathdka&color=orange)
 <br/>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&hide=TeX&layout=compact)
-<br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dathdka&count_private=true&show_icons=true&include_all_commits=true)
-<br/>
-<br/>
+
+
+I'm a fresheer Back-end NodeJS developer
+I love learning new techs and using new tools.
+
+<br />
+About me 🗿 https://dathdka.github.io/Profile/
 <p align= "center">
-<img src="https://github-readme-stats.vercel.app/api?username=dathdka&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dathdka Github Stats">
-<br />
-<br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dathdka&layout=compact&theme=dark&bg_color=0A0A0A" alt="Dathdka Top Languages"/>
+<br />
+<br />
+  <img src="https://github-readme-stats.vercel.app/api?username=dathdka&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Dathdka Github Stats">
 </p>
 <br />
 <br />
+Some project I currently working on: 
 
 
 
+### Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
