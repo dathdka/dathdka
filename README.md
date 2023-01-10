@@ -10,8 +10,6 @@ I love learning new techs and using new tools.
 <br />
 ![coding](https://i.imgur.com/VqFFP5Y.gif)
 
-
-
 <br />
 More about me 🗿 https://dathdka.github.io/Profile/
 <br />
