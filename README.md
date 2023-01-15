@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "https://komarev.com/ghpvc/?username=dathdka&color=orange" />
+<img src = "https://komarev.com/ghpvc/?username=dathdka&color=orange" width="150px"/>
 <br />
 
 <p align = "center">
