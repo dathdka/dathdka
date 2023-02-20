@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![Redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
