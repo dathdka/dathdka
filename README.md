@@ -16,15 +16,16 @@
 <a href= "https://github.com/dathdka?tab=repositories"> Đạt's projects </a>
 <br />
 <br />
-More about me 🗿 https://dathdka.github.io/Profile/
 </h3>
 
 ### ✅ Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-black?flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### ✅ Github status:
