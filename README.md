@@ -6,14 +6,14 @@
   <img src = "https://media.giphy.com/media/kJ1iL1ZQIyibu/giphy-downsized.gif" width="50%" height="50%"/>
  </p >
  <h3>
-💻   I'm a fresher Back-end Developer
+💻   I'm Javascript Developer
 <br />
 <br />
 🐱‍💻   I love learning new techs and using new tools.
 <br />
 <br />
 👀   Some project I currently working on: 
-<a href= "https://github.com/dathdka?tab=repositories"> Đạt's projects </a>
+<a href= "https://github.com/dathdka?tab=repositories"> Dat's projects </a>
 <br />
 <br />
 </h3>
